@@ -18,13 +18,6 @@ This repository is designed to bridge that gap. It offers a curated collection o
 Whether you're an AI researcher, a developer, or simply an enthusiast, this repo aims to equip you with everything you need to build and optimize your own LLM applications.
 
 # Libraries & Frameworks & Tools
-## Applications
-
-**Build & Auto-optimize**
-
-- [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - The library to build & auto-optimize LLM applications, from Chatbot, RAG, to Agent by [SylphAI](https://www.sylph.ai/).
-
-- [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
 
 **Build**
 
@@ -125,9 +118,7 @@ We will categorize the best resources to learn LLMs, from modeling to training, 
 
 ### Applications
 
-General
-
-- [AdalFlow documentation](https://adalflow.sylph.ai/) - Includes tutorials from building RAG, Agent, to LLM evaluation and fine-tuning.
+#### General
 
 - [CS224N](https://www.youtube.com/watch?v=rmVRLeJRkl4) - Stanford course covering NLP fundamentals, LLMs, and PyTorch-based model building, led by Chris Manning and Shikhar Murty.
 
@@ -202,4 +193,11 @@ Reasoning & Planning
 - [Mirzadeh, Iman, et al. "Gsm-symbolic: Understanding the limitations of mathematical reasoning in large language models." arXiv preprint arXiv:2410.05229 (2024).](https://arxiv.org/abs/2410.05229) By Apple.
 
 ## Social Accounts
+
+Ramakrushna Mohapatra: [Linkedin](https://www.linkedin.com/in/ramakrushnamohapatra/), [Twitter](https://x.com/techwith_ram)
+
+
+You can add as many resouces and folder as you want but make sure not repeated and its properly structured and good. Raise a PR, I will review them and approve them.
+
+**HAPPY LEARNING**
 
